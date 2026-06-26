@@ -89,9 +89,9 @@ Enter Choice : 1
 Enter Student ID : 101
 Enter DOB : 15/08/2007
 Enter Name : Rahul
-Enter Age : 18
+Enter Age : 20
 Enter Grade : A
-Enter Subjects : Python,Math,Science
+Enter Subjects : Math,Science
 
 Student Added Successfully.
 ```
