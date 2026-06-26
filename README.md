@@ -1,5 +1,6 @@
 # Project_3-README.md
 # 🎓 Student Data Organizer
+[Student Data Organizer](https://github.com/bhagirathvichhi018-create/python/blob/main/project_3.py)
 
 A simple Python project to manage student records using **List, Tuple, Set, and Dictionary** concepts. This project allows users to add, display, update, and delete student information.
 
